@@ -125,6 +125,10 @@ img {
     line-height: 1;
     cursor: pointer;
 }
+.inputs button:hover {
+    background-color: #faeac3;
+    padding: 5px;
+}
 .inputs .textoredesocial {
     position: absolute;
     top: 230px;
@@ -149,4 +153,7 @@ img {
     color: rgb(110, 110, 233);
     font-size: 1.1rem;
     right: 1rem;
+}
+.inputs .recsenha:hover {
+    padding: 2px;
 }
